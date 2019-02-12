@@ -1,5 +1,5 @@
 <html lang="en" dir="ltr"><head>
-    <link href="lab_website_2.0/cssfile.css"/>
+    <link href="cssfile.css"/>
     <meta charset="utf-8">
     <title>All About the Red Panda</title>
   </head>
