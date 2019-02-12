@@ -1,6 +1,6 @@
-<html lang="en" dir="ltr"><head>
-    <link href="cssfile.css"/>
-    <meta charset="utf-8">
+<html>
+  <head>
+    <link href="cssfile.css" type="text/css" rel="stylesheet"/>
     <title>All About the Red Panda</title>
   </head>
   <body>
