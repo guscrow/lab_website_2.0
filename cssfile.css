@@ -1,5 +1,13 @@
 body {
   font-family: Times New Roman;
-  background-color: #FFA820; }
+  background-color: #000000; }
+h1, h2 {
+  color: #FFA820;}
+p {
+  color: #FFA820;}
 table {
   width: 600px;}
+th, td {
+  padding: 7px 10px 10px;}
+th {
+  border-bottom: 2px solid #000000;}
