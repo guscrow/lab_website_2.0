@@ -15,4 +15,5 @@ th {
 th.heading {
   background-color = #efefef;}
 td {
-  color: #1442FF;}
+  color: #1442FF;
+  border: 1 px solid #000000;}
